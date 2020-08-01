@@ -1,3 +1,11 @@
+# forked from itewqq/MathpixCsharp
+
+## 增加了自动复制至剪贴板功能
+
+
+
+#原作者：
+
 # MathpixCsharp
 
 ## 每个月可以免费用1000次的Mathpix Windows客户端，支持图片转word公式，图片转latex代码
