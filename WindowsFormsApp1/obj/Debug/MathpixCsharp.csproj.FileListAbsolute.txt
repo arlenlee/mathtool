@@ -1,0 +1,14 @@
+E:\CODE\MathpixCsharp-master\WindowsFormsApp1\bin\Debug\MathpixCsharp.exe.config
+E:\CODE\MathpixCsharp-master\WindowsFormsApp1\bin\Debug\MathpixCsharp.exe
+E:\CODE\MathpixCsharp-master\WindowsFormsApp1\bin\Debug\MathpixCsharp.pdb
+E:\CODE\MathpixCsharp-master\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+E:\CODE\MathpixCsharp-master\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+E:\CODE\MathpixCsharp-master\WindowsFormsApp1\obj\Debug\MathpixCsharp.Form1.resources
+E:\CODE\MathpixCsharp-master\WindowsFormsApp1\obj\Debug\MathpixCsharp.ScreenShot.resources
+E:\CODE\MathpixCsharp-master\WindowsFormsApp1\obj\Debug\MathpixCsharp.login.resources
+E:\CODE\MathpixCsharp-master\WindowsFormsApp1\obj\Debug\MathpixCsharp.Properties.Resources.resources
+E:\CODE\MathpixCsharp-master\WindowsFormsApp1\obj\Debug\MathpixCsharp.csproj.GenerateResource.cache
+E:\CODE\MathpixCsharp-master\WindowsFormsApp1\obj\Debug\MathpixCsharp.csproj.CoreCompileInputs.cache
+E:\CODE\MathpixCsharp-master\WindowsFormsApp1\obj\Debug\MathpixCsharp.csproj.CopyComplete
+E:\CODE\MathpixCsharp-master\WindowsFormsApp1\obj\Debug\MathpixCsharp.exe
+E:\CODE\MathpixCsharp-master\WindowsFormsApp1\obj\Debug\MathpixCsharp.pdb
